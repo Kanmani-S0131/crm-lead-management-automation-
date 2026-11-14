@@ -1,0 +1,6 @@
+{
+  "name": "Vantage CRM — Lead Management & Automation",
+  "description": "Self-contained CRM Lead Management and Automation platform with 2,200+ seeded leads, interactive Kanban pipeline, rule-based automation engine, tasks, reports, and Chart.js analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
